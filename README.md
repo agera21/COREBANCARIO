@@ -59,6 +59,6 @@ En este apartado se definen la conexion a la base de datos MySQL, se debe defini
 Se deja una archivo de base de datos llamado *BaseDeDatos.sql* el cual contiene el ddl de la misma.
 
 ### Nota 
-Todos los archivos anteriormente mencionados esta en la carpeta raiz de este proyecto.
+Todos los archivos anteriormente mencionados esta en la carpeta raiz de este proyecto en la carpeta llamada *Recursos*.
 
 
